@@ -9,8 +9,8 @@ SpiderFoot Easylaunch &amp; Installer
 
 
 - `git clone https://github.com/SirCryptic/sfe`
-- `cd sfe
-- `bash sfe.sh
+- `cd sfe`
+- `bash sfe.sh`
 
 ### NOTE
 - copy this to your home directory on kali and execute the following
