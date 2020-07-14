@@ -11,7 +11,7 @@ echo -e '\e[0m\e[3;36m-------------------------------
 \e[3;31m SpiderFoot EasyLaunch \e[3;36m
 ------------------------------- \e[3;39m
 (1)  Launch Spider Foot Local Host
-(2)  Donwload & Install SpiderFoot \e[3;36m
+(2)  Download & Install SpiderFoot \e[3;36m
 ------------------------------- \e[3;39m
        CTRL + C To Exit \e[3;36m
 -------------------------------'
