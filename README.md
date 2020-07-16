@@ -1,6 +1,8 @@
 # sfe
 SpiderFoot Easylaunch &amp; Installer
 
+- Now with a fresh install option aswell as install since last version of my sfe launch had issues installing on new device
+
 ![sfelaunch](https://user-images.githubusercontent.com/48811414/87256127-095e6900-c488-11ea-867f-736a7dad4258.png)
 
 
