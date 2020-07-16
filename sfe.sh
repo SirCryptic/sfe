@@ -20,6 +20,6 @@ echo -e $Blue" ┌─["$red"SFEL$Blue]──[$red~$Blue]─["$yellow"BETA$Blue]"
 read -p      " └─────► " n
 case $n in
     1) clear&&echo "launching spiderfoot on localhost"&&cd spiderfoot&&python3 sf.py -l 127.0.0.1:5001;;
-    2) cd&&sudo rm -r spiderfoot&&git clone https://github.com/smicallef/spiderfoot.git&&cd spiderfoot&&pip3 install -r requirements.txt&&firefox "https://www.spiderfoot.net/documentation/";;
+    2) cd&&git clone https://github.com/smicallef/spiderfoot.git&&cd spiderfoot&&pip3 install -r requirements.txt&&firefox "https://www.spiderfoot.net/documentation/";;
     
 esac
